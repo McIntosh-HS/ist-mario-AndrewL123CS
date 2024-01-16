@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello, IST!\n");
+	printf("McIntosh Highschool\n");
 	return 0;
 }
